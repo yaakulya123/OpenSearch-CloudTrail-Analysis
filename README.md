@@ -1,10 +1,9 @@
 # My OpenSearch Deployment for CloudTrail Analysis POC
 
-This is a documentation of how I deployed OpenSearch on a virtual machine for analyzing AWS CloudTrail logs. I wanted to create an easy-to-follow guide for anyone trying to replicate this setup.
-
 ![image](https://github.com/user-attachments/assets/a4a6b147-ac9f-4c1e-933c-1251b67145b0)
 
-![image](https://github.com/user-attachments/assets/6f1d39af-7b13-4a09-b9b3-159c016f9bec)
+This is a documentation of how I deployed OpenSearch on a virtual machine for analyzing AWS CloudTrail logs. I wanted to create an easy-to-follow guide for anyone trying to replicate this setup.
+
 
 
 ## What I Needed
@@ -91,6 +90,9 @@ docker-compose up -d
 
 This command pulled the necessary Docker images and started both the OpenSearch engine and OpenSearch Dashboards.
 
+
+![image](https://github.com/user-attachments/assets/bf33b92d-6857-43f2-9969-06d02cf8f3fe)
+
 ### Step 4: Verify the Installation
 
 I confirmed the installation was successful by:
@@ -104,7 +106,8 @@ And by accessing:
 - OpenSearch API: http://localhost:9200
 - OpenSearch Dashboards: http://localhost:5601
 
-![image](https://github.com/user-attachments/assets/bf33b92d-6857-43f2-9969-06d02cf8f3fe)
+![image](https://github.com/user-attachments/assets/6f1d39af-7b13-4a09-b9b3-159c016f9bec)
+
 
 
 ## Challenges I Faced and How I Solved Them? 
