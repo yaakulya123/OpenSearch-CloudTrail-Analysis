@@ -1,6 +1,7 @@
 # My OpenSearch Deployment for CloudTrail Analysis POC
 
-![image](https://github.com/user-attachments/assets/a4a6b147-ac9f-4c1e-933c-1251b67145b0)
+
+![image](https://github.com/user-attachments/assets/6846c062-5893-4d2c-aaa6-8460d0f69362)
 
 This is a documentation of how I deployed OpenSearch on a virtual machine for analyzing AWS CloudTrail logs. I wanted to create an easy-to-follow guide for anyone trying to replicate this setup.
 
@@ -110,8 +111,7 @@ And by accessing:
 
 ---
 
-![image](https://github.com/user-attachments/assets/6846c062-5893-4d2c-aaa6-8460d0f69362)
-
+![image](https://github.com/user-attachments/assets/a4a6b147-ac9f-4c1e-933c-1251b67145b0)
 
 
 ## Challenges I Faced and How I Solved Them? 
